@@ -1,4 +1,4 @@
 
-= databms
+= dbc
 
-database management system
+manage your database connections
